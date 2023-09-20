@@ -9,5 +9,6 @@ body{
     background-color: #e4f2fd !important;
 }
 .heroSection{
-    padding: 200px;
+    text-align: center;
+    margin-top: 20%
 }
